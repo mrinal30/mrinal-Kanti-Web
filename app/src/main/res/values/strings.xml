@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">BabgladeshApplication</string>
+
+    <string-array name="bangladesh">
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+        <item>Bangladesh</item>
+    </string-array>
+</resources>
